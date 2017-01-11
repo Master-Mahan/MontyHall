@@ -1,0 +1,5 @@
+H:\General\References\Projects\C#\MontyHall\MontyHall\bin\Debug\MontyHall.dll
+H:\General\References\Projects\C#\MontyHall\MontyHall\bin\Debug\MontyHall.pdb
+H:\General\References\Projects\C#\MontyHall\MontyHall\obj\Debug\MontyHall.csprojResolveAssemblyReference.cache
+H:\General\References\Projects\C#\MontyHall\MontyHall\obj\Debug\MontyHall.dll
+H:\General\References\Projects\C#\MontyHall\MontyHall\obj\Debug\MontyHall.pdb

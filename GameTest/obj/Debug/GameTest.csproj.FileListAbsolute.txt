@@ -1,0 +1,9 @@
+H:\General\References\Projects\C#\MontyHall\GameTest\bin\Debug\GameTest.dll
+H:\General\References\Projects\C#\MontyHall\GameTest\bin\Debug\GameTest.pdb
+H:\General\References\Projects\C#\MontyHall\GameTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+H:\General\References\Projects\C#\MontyHall\GameTest\bin\Debug\MontyHall.dll
+H:\General\References\Projects\C#\MontyHall\GameTest\bin\Debug\MontyHall.pdb
+H:\General\References\Projects\C#\MontyHall\GameTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+H:\General\References\Projects\C#\MontyHall\GameTest\obj\Debug\GameTest.csprojResolveAssemblyReference.cache
+H:\General\References\Projects\C#\MontyHall\GameTest\obj\Debug\GameTest.dll
+H:\General\References\Projects\C#\MontyHall\GameTest\obj\Debug\GameTest.pdb
